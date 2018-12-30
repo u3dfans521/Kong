@@ -3,9 +3,9 @@ public class Teacher {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("½ÌÊ¦ĞÅÏ¢");
-		System.out.println("Kong2Ìí¼ÓÁîºü³å");
-		System.out.println("ÔÀ²»Èº");
+		System.out.println("æ•™å¸ˆä¿¡æ¯");
+		System.out.println("Kong2æ·»åŠ ä»¤ç‹å†²");
+		System.out.println("å²³ä¸ç¾¤");
 	}
 
 }
