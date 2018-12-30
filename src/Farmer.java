@@ -6,6 +6,7 @@ public class Farmer {
 		System.out.println("农民信息");
 		System.out.println("有效信息");
 		System.out.println("进展与调度");
+		System.out.println("安全第一");
 	}
 
 }
