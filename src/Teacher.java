@@ -8,6 +8,7 @@ public class Teacher {
 		System.out.println("行为世范");
 		System.out.println("教师学期考核");
 		System.out.println("k2新建分支");
+		System.out.println("k3新建分支");
 	}
 
 }
