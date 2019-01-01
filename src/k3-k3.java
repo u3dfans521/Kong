@@ -1,5 +1,5 @@
 
-public class k3_k3 {
+public class k3-k3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
